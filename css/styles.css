@@ -28,7 +28,7 @@ h1 {
   float: left;
 }
 
-h2{
-  font-size: 12;
+.iconTitle{
+  font-size: 12px;
   font-weight: bold;
 }
