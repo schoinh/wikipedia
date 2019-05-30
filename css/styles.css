@@ -15,7 +15,7 @@ h1 {
 }
 .columnmain{
   position: relative;
-  margin-left: 150px;
+  margin-left: 175px;
 }
 
 .iconImage{
@@ -28,6 +28,9 @@ h1 {
   font-weight: bold;
 }
 
+#wikiIcon{
+  width: 150px;
+}
 
 
 @media screen and (min-width: 800px) {
