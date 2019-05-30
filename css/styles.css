@@ -15,12 +15,7 @@ h1 {
 }
 .columnmain{
   position: relative;
-  margin-left: 149px;
-}
-
-.thatColumn{
-  width: 33%;
-  float: left;
+  margin-left: 150px;
 }
 
 .iconImage{
@@ -31,4 +26,21 @@ h1 {
 .iconTitle{
   font-size: 12px;
   font-weight: bold;
+}
+
+
+
+@media screen and (min-width: 800px) {
+    .iconBox{
+      padding: 2px;
+      width: 30%;
+      float: left;
+    }
+}
+@media screen and (min-width: 600px) and (max-width: 800px) {
+    .iconBox{
+      padding: 2px;
+      width: 50%;
+      float: left;
+    }
 }
