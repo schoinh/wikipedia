@@ -1,0 +1,34 @@
+h1 {
+
+  font-size: 24px;
+  margin: 5px;
+  padding: 5px;
+  background-color: lightgreen;
+  border: 1px solid green;
+}
+
+.columnnav{
+  position: fixed;
+  width: 150px;
+  float: left;
+  background-color: #eee;
+}
+.columnmain{
+  position: relative;
+  margin-left: 149px;
+}
+
+.thatColumn{
+  width: 33%;
+  float: left;
+}
+
+.iconImage{
+  width: 40px;
+  float: left;
+}
+
+h2{
+  font-size: 12;
+  font-weight: bold;
+}
